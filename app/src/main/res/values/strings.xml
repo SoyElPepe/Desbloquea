@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Huella</string>
+    <string name="btn"> Enviar</string>
+    <string name="mensaje"> Mesaje</string>
+    <string name="nombre"> Nombre</string>
+    <string name="email"> Correo electronico</string>
+    <string name="asunto"> Asunto</string>
+    <string name="limpiar"> Limpiar campos</string>
+    <string name="formulario"> Formulario del contacto </string>
+    <string name="resumen"> Resumen del mesaje</string>
+</resources>
